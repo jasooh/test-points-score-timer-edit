@@ -175,7 +175,7 @@ p {
     color:#000;
 }
 
-#logo img{
+img.logo {
     margin-top: 10px;
     width: 200px;
     height: auto;
